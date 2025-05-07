@@ -1,3 +1,6 @@
+Microsoft.AspNetCore.App 3.1.32 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]
+Microsoft.NETCore.App 3.1.32 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+
 # Codespaces .NET Core Starter #
 
 This project is a .NET Core starter for developers to use in Codespaces that includes basic system tools and extensions for .NET Core app development.
