@@ -17,7 +17,8 @@
     "ms-vsliveshare.vsliveshare",
     "visualstudioexptteam.vscodeintellicode",
     "yzhang.markdown-all-in-one",
-    "ms-dotnettools.csdevkit"
+    "ms-dotnettools.csdevkit",
+    "ms-dotnettools.vscode-dotnet-runtime"
   ],
   "dockerFile": "Dockerfile",
   "forwardPorts": [5000, 5001, 7071],
